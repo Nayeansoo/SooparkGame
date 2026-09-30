@@ -23,4 +23,4 @@ const render = Render.create({
 
 //테스트 실행
 Render.run(render);
-Render.run(engine);
+Runner.run(engine);
